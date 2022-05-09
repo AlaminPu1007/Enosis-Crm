@@ -1,0 +1,40 @@
+export default {  
+  email:'Email',
+  password:'Password',
+  forgotPassword:'Forgot Password',
+  login:'Login',
+  orLogin:'Or Login',
+  dontAccount:"Dont't have an Account",
+  singUp:'Sign Up',
+  language:'Language',
+
+   SignUpScreen:{
+  	firstName:'First Name',
+  	lastName:'Last Name',
+  	email:'Email',
+  	password:'Password',
+  	country:'Country',
+  	confirmPassword:'Confirm Password',
+  	create:'Create',
+  	haveAccount:'Have account already? Please go to',
+  	login:'Log In',
+  },
+
+  forgotScreen:{
+  	email:'Email',
+  	login:'Login',
+  	singUp:'Sign Up',
+  	submit:'Submit',
+  },
+  DrawerContentScreen:{
+    dashboard:'Dashboard',
+    profile:'Profile',
+    trading:'Trading',
+    fundTransfer:'Fund Transfer',
+    ticket:'Ticket',
+    liveSupport:'Live Support',
+    faqs:'FAQs',
+    ib: 'IB',
+    logOut:'Log Out',
+  },
+};
